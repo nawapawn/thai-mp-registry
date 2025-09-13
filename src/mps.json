@@ -1,0 +1,4430 @@
+[
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34161",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3540100539076_3.png",
+    "id": "001",
+    "name": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34087",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8476b175938b37a3e03e25c0bd1d4b39.png",
+    "id": "002",
+    "name": "นายกมลศักดิ์ ลีวาเมาะ",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34296",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/367fed0d5e472475b00d12b7f5c9fe01.png",
+    "id": "003",
+    "name": "นายกรวีร์ ปริศนานันทกุล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอ่างทอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34273",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb79c00a820a3b0b0549e370d9010d56.png",
+    "id": "004",
+    "name": "นายกรวีร์ สาราคำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34261",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/43dd23fa8fb668cf50a86af70fc84b00.png",
+    "id": "005",
+    "name": "นายกระแสร์ ตระกูลพรพงศ์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดหนองคาย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34352",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cb4ee29bf8955ced230ca9d676cd14a.png",
+    "id": "006",
+    "name": "นายกรุณพล เทียนสุวรรณ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34162",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/babcec9cd6fb7ffc35bc615d592c9b51.png",
+    "id": "007",
+    "name": "นายกฤช ศิลปชัย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34427",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f9aa2ac413db397d24adcd7cb6377e6e.png",
+    "id": "008",
+    "name": "นายกฤดิทัช แสงธนโยธิน",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34006",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3f94d4714f4291ded8703c217361ac6e.png",
+    "id": "009",
+    "name": "นางสาวกฤษฎิ์ ชีวะธรรมานนท์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34069",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d692c56ed38a1c359a4759b3f5d60f63.png",
+    "id": "010",
+    "name": "นายกฤษฐ์หิรัญ เลิศอุฤทธิ์ภักดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34279",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ca128c381fc539c8920cd160751dcd8.png",
+    "id": "011",
+    "name": "นางสาวกฤษณา สีหลักษณ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุตรดิตถ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33940",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4b9b305a04c93bb9b194bf603b7ea27c.png",
+    "id": "012",
+    "name": "นายกัณตภณ ดวงอัมพร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34161",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3540100539076_3.png",
+    "id": "001",
+    "name": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34087",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8476b175938b37a3e03e25c0bd1d4b39.png",
+    "id": "002",
+    "name": "นายกมลศักดิ์ ลีวาเมาะ",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34296",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/367fed0d5e472475b00d12b7f5c9fe01.png",
+    "id": "003",
+    "name": "นายกรวีร์ ปริศนานันทกุล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอ่างทอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34273",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb79c00a820a3b0b0549e370d9010d56.png",
+    "id": "004",
+    "name": "นายกรวีร์ สาราคำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34261",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/43dd23fa8fb668cf50a86af70fc84b00.png",
+    "id": "005",
+    "name": "นายกระแสร์ ตระกูลพรพงศ์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดหนองคาย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34352",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cb4ee29bf8955ced230ca9d676cd14a.png",
+    "id": "006",
+    "name": "นายกรุณพล เทียนสุวรรณ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34162",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/babcec9cd6fb7ffc35bc615d592c9b51.png",
+    "id": "007",
+    "name": "นายกฤช ศิลปชัย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34427",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f9aa2ac413db397d24adcd7cb6377e6e.png",
+    "id": "008",
+    "name": "นายกฤดิทัช แสงธนโยธิน",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34006",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3f94d4714f4291ded8703c217361ac6e.png",
+    "id": "009",
+    "name": "นางสาวกฤษฎิ์ ชีวะธรรมานนท์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34069",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d692c56ed38a1c359a4759b3f5d60f63.png",
+    "id": "010",
+    "name": "นายกฤษฐ์หิรัญ เลิศอุฤทธิ์ภักดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34279",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ca128c381fc539c8920cd160751dcd8.png",
+    "id": "011",
+    "name": "นางสาวกฤษณา สีหลักษณ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุตรดิตถ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33940",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4b9b305a04c93bb9b194bf603b7ea27c.png",
+    "id": "012",
+    "name": "นายกัณตภณ ดวงอัมพร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34161",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3540100539076_3.png",
+    "id": "001",
+    "name": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34087",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8476b175938b37a3e03e25c0bd1d4b39.png",
+    "id": "002",
+    "name": "นายกมลศักดิ์ ลีวาเมาะ",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34296",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/367fed0d5e472475b00d12b7f5c9fe01.png",
+    "id": "003",
+    "name": "นายกรวีร์ ปริศนานันทกุล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอ่างทอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34273",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb79c00a820a3b0b0549e370d9010d56.png",
+    "id": "004",
+    "name": "นายกรวีร์ สาราคำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34261",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/43dd23fa8fb668cf50a86af70fc84b00.png",
+    "id": "005",
+    "name": "นายกระแสร์ ตระกูลพรพงศ์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดหนองคาย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34352",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cb4ee29bf8955ced230ca9d676cd14a.png",
+    "id": "006",
+    "name": "นายกรุณพล เทียนสุวรรณ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34162",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/babcec9cd6fb7ffc35bc615d592c9b51.png",
+    "id": "007",
+    "name": "นายกฤช ศิลปชัย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34427",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f9aa2ac413db397d24adcd7cb6377e6e.png",
+    "id": "008",
+    "name": "นายกฤดิทัช แสงธนโยธิน",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34006",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3f94d4714f4291ded8703c217361ac6e.png",
+    "id": "009",
+    "name": "นางสาวกฤษฎิ์ ชีวะธรรมานนท์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34069",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d692c56ed38a1c359a4759b3f5d60f63.png",
+    "id": "010",
+    "name": "นายกฤษฐ์หิรัญ เลิศอุฤทธิ์ภักดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34279",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ca128c381fc539c8920cd160751dcd8.png",
+    "id": "011",
+    "name": "นางสาวกฤษณา สีหลักษณ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุตรดิตถ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33940",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4b9b305a04c93bb9b194bf603b7ea27c.png",
+    "id": "012",
+    "name": "นายกัณตภณ ดวงอัมพร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34161",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3540100539076_3.png",
+    "id": "001",
+    "name": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34087",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8476b175938b37a3e03e25c0bd1d4b39.png",
+    "id": "002",
+    "name": "นายกมลศักดิ์ ลีวาเมาะ",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34296",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/367fed0d5e472475b00d12b7f5c9fe01.png",
+    "id": "003",
+    "name": "นายกรวีร์ ปริศนานันทกุล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอ่างทอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34273",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb79c00a820a3b0b0549e370d9010d56.png",
+    "id": "004",
+    "name": "นายกรวีร์ สาราคำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34261",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/43dd23fa8fb668cf50a86af70fc84b00.png",
+    "id": "005",
+    "name": "นายกระแสร์ ตระกูลพรพงศ์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดหนองคาย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34352",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cb4ee29bf8955ced230ca9d676cd14a.png",
+    "id": "006",
+    "name": "นายกรุณพล เทียนสุวรรณ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34162",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/babcec9cd6fb7ffc35bc615d592c9b51.png",
+    "id": "007",
+    "name": "นายกฤช ศิลปชัย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34427",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f9aa2ac413db397d24adcd7cb6377e6e.png",
+    "id": "008",
+    "name": "นายกฤดิทัช แสงธนโยธิน",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34006",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3f94d4714f4291ded8703c217361ac6e.png",
+    "id": "009",
+    "name": "นางสาวกฤษฎิ์ ชีวะธรรมานนท์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34069",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d692c56ed38a1c359a4759b3f5d60f63.png",
+    "id": "010",
+    "name": "นายกฤษฐ์หิรัญ เลิศอุฤทธิ์ภักดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34279",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ca128c381fc539c8920cd160751dcd8.png",
+    "id": "011",
+    "name": "นางสาวกฤษณา สีหลักษณ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุตรดิตถ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33940",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4b9b305a04c93bb9b194bf603b7ea27c.png",
+    "id": "012",
+    "name": "นายกัณตภณ ดวงอัมพร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34161",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3540100539076_3.png",
+    "id": "001",
+    "name": "นางสาวกมนทรรศน์ กิตติสุนทรสกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34087",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8476b175938b37a3e03e25c0bd1d4b39.png",
+    "id": "002",
+    "name": "นายกมลศักดิ์ ลีวาเมาะ",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34296",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/367fed0d5e472475b00d12b7f5c9fe01.png",
+    "id": "003",
+    "name": "นายกรวีร์ ปริศนานันทกุล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอ่างทอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34273",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb79c00a820a3b0b0549e370d9010d56.png",
+    "id": "004",
+    "name": "นายกรวีร์ สาราคำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34261",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/43dd23fa8fb668cf50a86af70fc84b00.png",
+    "id": "005",
+    "name": "นายกระแสร์ ตระกูลพรพงศ์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดหนองคาย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34352",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cb4ee29bf8955ced230ca9d676cd14a.png",
+    "id": "006",
+    "name": "นายกรุณพล เทียนสุวรรณ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34162",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/babcec9cd6fb7ffc35bc615d592c9b51.png",
+    "id": "007",
+    "name": "นายกฤช ศิลปชัย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34427",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f9aa2ac413db397d24adcd7cb6377e6e.png",
+    "id": "008",
+    "name": "นายกฤดิทัช แสงธนโยธิน",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34006",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3f94d4714f4291ded8703c217361ac6e.png",
+    "id": "009",
+    "name": "นางสาวกฤษฎิ์ ชีวะธรรมานนท์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34069",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d692c56ed38a1c359a4759b3f5d60f63.png",
+    "id": "010",
+    "name": "นายกฤษฐ์หิรัญ เลิศอุฤทธิ์ภักดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34279",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ca128c381fc539c8920cd160751dcd8.png",
+    "id": "011",
+    "name": "นางสาวกฤษณา สีหลักษณ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุตรดิตถ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33940",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4b9b305a04c93bb9b194bf603b7ea27c.png",
+    "id": "012",
+    "name": "นายกัณตภณ ดวงอัมพร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33975",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/83f07d409f73f8ef2f999ff5f002e0eb.png",
+    "id": "049",
+    "name": "นายจำลอง ภูนวนทา",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดกาฬสินธุ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34394",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100602169597_2.jpg",
+    "id": "050",
+    "name": "นายจิตติพจน์ วิริยะโรจน์",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34150",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/33ce8d1e08c10312b9131aaee8597ed8.png",
+    "id": "051",
+    "name": "นายจิรวัฒน์ ศิริพานิชย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดมหาสารคาม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34004",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6313fb1630f5aec87112ddb8e7b87f1d.png",
+    "id": "052",
+    "name": "นายจิรวุฒิ สิงห์โตทอง",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34201",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1479900304220_3.jpg",
+    "id": "053",
+    "name": "นางสาวจิรัชยา สัพโส",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34000",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9b43183cf1c8bac24d58fa67bef95a3e.png",
+    "id": "054",
+    "name": "นายจิรัฏฐ์ ทองสุวรรณ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดฉะเชิงเทรา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34175",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/af0733a78fe0cead2020782c97457a04.png",
+    "id": "055",
+    "name": "นางสาวจิราพร สินธุไพร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดร้อยเอ็ด",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34129",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/bcaa74ac49abe904025a6e182d9aa0e8.png",
+    "id": "056",
+    "name": "นายจีรเดช ศรีวิราช",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดพะเยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34408",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5ccab08df10052f5f1764997a337111c.png",
+    "id": "057",
+    "name": "นายจุติ ไกรฤกษ์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34417",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/45b381006504a434b7052c29da6489a5.png",
+    "id": "058",
+    "name": "นายจุรินทร์ ลักษณวิศิษฏ์",
+    "party": "พรรคประชาธิปัตย์",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34367",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3101800325995_2.jpg",
+    "id": "059",
+    "name": "นายจุลพงศ์ อยู่เกษ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34308",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2ad1c7b1954bbfe47d4fce48546ed334.png",
+    "id": "060",
+    "name": "นายจุลพันธ์ อมรวิวัฒน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34302",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d54cfc86e78cf49db0206cb07f4cb7b2.png",
+    "id": "061",
+    "name": "นางจุฬาลักษณ์ ขันสุธรรม",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงราย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34282",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/bd7593a27f56f3f7036c7a469a7e4281.png",
+    "id": "062",
+    "name": "นายเจเศรษฐ์ ไทยเศรษฐ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอุทัยธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34105",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6a9866f4cbdfcf00a45a8723f8fac3a5.png",
+    "id": "063",
+    "name": "นายเจษฎา ดนตรีเสนาะ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดปทุมธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34131",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e56d087a19d4b30633f54ec037da6a46.png",
+    "id": "064",
+    "name": "นายฉกาจ พัฒนกิจวิบูลย์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดพังงา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34172",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3c20ad1a0f6230c23313310360fc9cd3.png",
+    "id": "065",
+    "name": "นายฉลาด ขามช่วง",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดร้อยเอ็ด",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34043",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/872f2fbb41c88efd3e54f44222935566.png",
+    "id": "066",
+    "name": "นายฉัตร สุภัทรวณิชย์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34375",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f990b1762e1dc4278c90a999aeb6eead.png",
+    "id": "067",
+    "name": "ร้อยตำรวจเอก เฉลิม อยู่บำรุง",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33939",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1189900101887_2.jpg",
+    "id": "068",
+    "name": "นายเฉลิมชัย กุลาเลิศ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34144",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/293814eddcdddc3716fca8cf3103c0a0.png",
+    "id": "069",
+    "name": "นายเฉลิมพงศ์ แสงดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดภูเก็ต",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34178",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f87188b9c6179c7de819feabfd9c5e56.png",
+    "id": "070",
+    "name": "นางสาวชญาภา สินธุไพร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดร้อยเอ็ด",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34262",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/dd770b09d2494e74c8cec813bb16d214.png",
+    "id": "071",
+    "name": "นางสาวชนก จันทาทอง",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดหนองคาย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34209",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/0803ea5ea353d6cebd0907dfb652e57b.png",
+    "id": "072",
+    "name": "นายชนนพัฒฐ์ นาคสั้ว",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดสงขลา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33942",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2815fd1ff118de6ceeb5b08dbe6eae3e.png",
+    "id": "073",
+    "name": "นายชยพล สท้อนดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34464",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3700101047612_2.jpg",
+    "id": "074",
+    "name": "นายเกชา ศักดิ์สมบูรณ์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34123",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a407180c142e3a1083344697a14ac788.png",
+    "id": "075",
+    "name": "นายชริน วงศ์พันธ์เที่ยง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดพระนครศรีอยุธยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34186",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7a8b7445abccb0b0d7ca7a50fed9058b.png",
+    "id": "076",
+    "name": "นายชลธานี เชื้อน้อย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดลำปาง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34106",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8849281d1cad9c8f88d4068d8b6e4922.png",
+    "id": "077",
+    "name": "นางสาวชลธิชา แจ้งเร็ว",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดปทุมธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34089",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/37ca5ec84c28fc0f8d21fb3dbc876b31.png",
+    "id": "078",
+    "name": "นายชลน่าน ศรีแก้ว",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดน่าน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34418",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3929900105199_8.jpg",
+    "id": "079",
+    "name": "นายชวน หลีกภัย",
+    "party": "พรรคประชาธิปัตย์",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34003",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cd9eb27d56a51d7bca8c850053b9bff1.png",
+    "id": "080",
+    "name": "นายชวาล พลเมืองดี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34177",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b26509013dd0689cf28cfa94fba39164.png",
+    "id": "081",
+    "name": "นายชัชวาล แพทยาไทย",
+    "party": "พรรคไทยสร้างไทย",
+    "province": "จังหวัดร้อยเอ็ด",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33985",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d3b72e7c340d02c136acfe816e78edd2.png",
+    "id": "082",
+    "name": "นายชัชวาล อภิรักษ์มั่นคง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดขอนแก่น",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34407",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c0cfe85572ac4b43c9d65071a6f4f9aa.png",
+    "id": "083",
+    "name": "นายชัชวาลล์ คงอุดม",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34461",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3101403519181_2.jpg",
+    "id": "084",
+    "name": "นางสาวศรีญาดา ปาลิมาพันธ์",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34063",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1809900115849_4.jpg",
+    "id": "085",
+    "name": "นายชัยชนะ เดชเดโช",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34170",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a392567e39f1c7801531c870c5943537.png",
+    "id": "086",
+    "name": "นายชัยทิพย์ กมลพันธ์ทิพย์",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดราชบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34203",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/71b8ef28617585721294d448a4c6378b.png",
+    "id": "088",
+    "name": "นายชัยมงคล ไชยรบ",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34412",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8cca9cd7f6cc381259489a01df5f4014.png",
+    "id": "089",
+    "name": "นายชัยวัฒน์ เป้าเปี่ยมทรัพย์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34346",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100400417921_2.jpg",
+    "id": "090",
+    "name": "นายชัยวัฒน์ สถาวรวิจิตร",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34283",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7ac25e7c14968820839f25e25f4e49ec.png",
+    "id": "091",
+    "name": "นายชาดา ไทยเศรษฐ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอุทัยธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34200",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3470100784781_2.jpg",
+    "id": "092",
+    "name": "นายชาตรี หล้าพรหม",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34297",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/53c3b9cbae56f126107157ff78aeb7f8.png",
+    "id": "093",
+    "name": "นายชิตวัน ชินอนุวัฒน์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงราย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34038",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a1dbd3bf97eccd82ed7802d8e1852d67.png",
+    "id": "094",
+    "name": "นายชิษณุพงศ์ ตั้งเมธากุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34164",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ef6f44ed2c959cb3e78ba7be4bc1e3a.png",
+    "id": "095",
+    "name": "นายชุติพงศ์ พิภพภิญโญ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34366",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/86bf26be857a23242b1932498ee95f04.png",
+    "id": "096",
+    "name": "นางสาวชุติมา คชพันธ์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34042",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/96f4e1730118c5d7168f8f414ce338a5.png",
+    "id": "097",
+    "name": "นายชูกัน กุลวงษา",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดนครพนม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34063",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1809900115849_4.jpg",
+    "id": "085",
+    "name": "นายชัยชนะ เดชเดโช",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34170",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a392567e39f1c7801531c870c5943537.png",
+    "id": "086",
+    "name": "นายชัยทิพย์ กมลพันธ์ทิพย์",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดราชบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34203",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/71b8ef28617585721294d448a4c6378b.png",
+    "id": "088",
+    "name": "นายชัยมงคล ไชยรบ",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34412",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8cca9cd7f6cc381259489a01df5f4014.png",
+    "id": "089",
+    "name": "นายชัยวัฒน์ เป้าเปี่ยมทรัพย์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34346",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100400417921_2.jpg",
+    "id": "090",
+    "name": "นายชัยวัฒน์ สถาวรวิจิตร",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34283",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7ac25e7c14968820839f25e25f4e49ec.png",
+    "id": "091",
+    "name": "นายชาดา ไทยเศรษฐ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอุทัยธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34200",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3470100784781_2.jpg",
+    "id": "092",
+    "name": "นายชาตรี หล้าพรหม",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34297",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/53c3b9cbae56f126107157ff78aeb7f8.png",
+    "id": "093",
+    "name": "นายชิตวัน ชินอนุวัฒน์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงราย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34038",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a1dbd3bf97eccd82ed7802d8e1852d67.png",
+    "id": "094",
+    "name": "นายชิษณุพงศ์ ตั้งเมธากุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34164",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ef6f44ed2c959cb3e78ba7be4bc1e3a.png",
+    "id": "095",
+    "name": "นายชุติพงศ์ พิภพภิญโญ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34366",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/86bf26be857a23242b1932498ee95f04.png",
+    "id": "096",
+    "name": "นางสาวชุติมา คชพันธ์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34042",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/96f4e1730118c5d7168f8f414ce338a5.png",
+    "id": "097",
+    "name": "นายชูกัน กุลวงษา",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดนครพนม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34250",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/817983a14a15ac54f69ee1505c7c82b9.png",
+    "id": "098",
+    "name": "นายชูชัย มุ่งเจริญพร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34258",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6589d9548e2c3a56d761fd36000cbbcc.png",
+    "id": "099",
+    "name": "นายชูศักดิ์ คีรีมาศทอง",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสุโขทัย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33969",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100600415116_2.jpg",
+    "id": "100",
+    "name": "นายชูศักดิ์ แม้นทิม",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกาญจนบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34374",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/0914cb85a5249e8cc61ce5a81c375532.png",
+    "id": "101",
+    "name": "รองศาสตราจารย์ชูศักดิ์ ศิรินิล",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34109",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1ed12df62e0b05ad7db464e6bba7350a.png",
+    "id": "102",
+    "name": "นายเชตวัน เตือประโคน",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดปทุมธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34018",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c5c0677831718455cdcb2f4ea1752fa8.png",
+    "id": "103",
+    "name": "นายเชวงศักดิ์ เร่งไพบูลย์วงษ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดชัยภูมิ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34429",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4b9ceab535320a36e1acf89a7005eb14.png",
+    "id": "104",
+    "name": "นายเชาวฤทธิ์ ขจรพงศ์กีรติ",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34014",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3360600769846_4.jpg",
+    "id": "105",
+    "name": "นายเชิงชาย ชาลีรินทร์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดชัยภูมิ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34236",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3b011d71af91d5c2aee20e6853d7a6b0.png",
+    "id": "106",
+    "name": "นายโชติวุฒิ ธนาคมานุสรณ์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดสิงห์บุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34095",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/de14018f16e6d863f709cb7b5f9025ed.png",
+    "id": "107",
+    "name": "นายไชยชนก ชิดชอบ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดบุรีรัมย์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34147",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4718f3c9bb8d1c7dbe4848748a4cccab.png",
+    "id": "108",
+    "name": "นายไชยวัฒนา ติณรัตน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดมหาสารคาม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34265",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3401600042661_6.png",
+    "id": "109",
+    "name": "นายไชยา พรหมา",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดหนองบัวลำภู",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34212",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3900300263461_5.jpg",
+    "id": "123",
+    "name": "นายณัฏฐ์ชนน ศรีก่อเกื้อ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสงขลา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34046",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1309900794295_3.jpg",
+    "id": "124",
+    "name": "นางสาวณัฐจิรา อิ่มวิเศษ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33961",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/129ee9a3b74f37f2081989a1cfac932b.png",
+    "id": "125",
+    "name": "นายณัฐชา บุญไชยอินสวัสดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33955",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/0f298ea4dda6bb3382275caa2c4c240f.png",
+    "id": "126",
+    "name": "นายณัฐพงศ์ เปรมพูลสวัสดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34269",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/029e0503fcf1131864962ea0500b4ac1.png",
+    "id": "127",
+    "name": "นายณัฐพงษ์ พิพัฒน์ไชยศิริ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34344",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2d7f4a4c0e9dbdd7a39cc2fec781c4f3.png",
+    "id": "128",
+    "name": "นายณัฐพงษ์ เรืองปัญญาวุฒิ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34090",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3509900142942_5.jpg",
+    "id": "129",
+    "name": "นายณัฐพงษ์ สุปริยศิลป์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดน่าน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34226",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f19fa65cefdedcfe647bac1ffa4f4603.png",
+    "id": "130",
+    "name": "นายณัฐพงษ์ สุมโนธรรม",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรสาคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34306",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2f7b987a65520810a3cf64f667082a44.png",
+    "id": "131",
+    "name": "นายณัฐพล โตวิจักษณ์ชัยกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34343",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/df7ddc748aa92db1768c148b3002f693.png",
+    "id": "132",
+    "name": "นายณัฐวุฒิ บัวประทุม",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34238",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6b4c3f9b74c34c1b874e9b311543ba93.png",
+    "id": "133",
+    "name": "นายณัฐวุฒิ ประเสริฐสุวรรณ",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดสุพรรณบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34395",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1706e644040c41813be28de5d028b563.png",
+    "id": "134",
+    "name": "นายดนุพร ปุณณกันต์",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34212",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3900300263461_5.jpg",
+    "id": "123",
+    "name": "นายณัฏฐ์ชนน ศรีก่อเกื้อ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสงขลา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34046",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1309900794295_3.jpg",
+    "id": "124",
+    "name": "นางสาวณัฐจิรา อิ่มวิเศษ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33961",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/129ee9a3b74f37f2081989a1cfac932b.png",
+    "id": "125",
+    "name": "นายณัฐชา บุญไชยอินสวัสดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33955",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/0f298ea4dda6bb3382275caa2c4c240f.png",
+    "id": "126",
+    "name": "นายณัฐพงศ์ เปรมพูลสวัสดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34269",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/029e0503fcf1131864962ea0500b4ac1.png",
+    "id": "127",
+    "name": "นายณัฐพงษ์ พิพัฒน์ไชยศิริ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34344",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2d7f4a4c0e9dbdd7a39cc2fec781c4f3.png",
+    "id": "128",
+    "name": "นายณัฐพงษ์ เรืองปัญญาวุฒิ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34090",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3509900142942_5.jpg",
+    "id": "129",
+    "name": "นายณัฐพงษ์ สุปริยศิลป์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดน่าน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34226",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f19fa65cefdedcfe647bac1ffa4f4603.png",
+    "id": "130",
+    "name": "นายณัฐพงษ์ สุมโนธรรม",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรสาคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34306",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2f7b987a65520810a3cf64f667082a44.png",
+    "id": "131",
+    "name": "นายณัฐพล โตวิจักษณ์ชัยกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34343",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/df7ddc748aa92db1768c148b3002f693.png",
+    "id": "132",
+    "name": "นายณัฐวุฒิ บัวประทุม",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34238",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6b4c3f9b74c34c1b874e9b311543ba93.png",
+    "id": "133",
+    "name": "นายณัฐวุฒิ ประเสริฐสุวรรณ",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดสุพรรณบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34395",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1706e644040c41813be28de5d028b563.png",
+    "id": "134",
+    "name": "นายดนุพร ปุณณกันต์",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34411",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100601215161_2.png",
+    "id": "135",
+    "name": "รองศาสตราจารย์พิเศษดวงฤทธิ์ เบ็ญจาธิกุล ชัยรุ่งเรือง",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34210",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/08de13ae71c542d57c6432168d7dfcc3.png",
+    "id": "136",
+    "name": "นายเดชอิศม์ ขาวทอง",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดสงขลา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34224",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c9b596bde229a093c16ae178d06ddd24.png",
+    "id": "137",
+    "name": "นายตรัยวรรธน์ อิ่มใจ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34234",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b0afae8b8893b036d8ad2b265fc92eae.png",
+    "id": "138",
+    "name": "นางสาวตรีนุช เทียนทอง",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดสระแก้ว",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34294",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5d47a77e07a4a62848d6b513e0e5bd57.png",
+    "id": "139",
+    "name": "นางสาวตวงทิพย์ จินตะเวช",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอุบลราชธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34101",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/bae97a559d25a0cccce5a09acfec77a0.png",
+    "id": "140",
+    "name": "นายไตรเทพ งามกมล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดบุรีรัมย์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34023",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/90d5df2a27a39c2fc0ede77f018f6bf1.png",
+    "id": "141",
+    "name": "นายถนอมพงศ์ หลีกภัย",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดตรัง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33933",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/556c0596c2ba913ef671c6edb5dd247b.png",
+    "id": "142",
+    "name": "นายถิรเดช ตั้งมั่นก่อกิจ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกระบี่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34088",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/54c515fd1c32a24cb08d51567d09431a.png",
+    "id": "143",
+    "name": "นายทรงยศ รามสูต",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดน่าน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34458",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1103300052189_3.jpg",
+    "id": "144",
+    "name": "นายชลัฐ รัชกิจประการ",
+    "party": "พรรคภูมิใจไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34060",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1afd01b2c5ff4a830db37d906468fa0c.png",
+    "id": "145",
+    "name": "นายทรงศักดิ์ มุสิกอง",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34070",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5ffda4392b9a0b960f1afd2977e775c0.png",
+    "id": "146",
+    "name": "นายทรงศักดิ์ ส่งเสริมอุดมชัย",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34325",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/dd84d8d2435053a9ac31574a76125bb4.png",
+    "id": "160",
+    "name": "นายธนยศ ทิมสุวรรณ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดเลย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34192",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4e072a0ad2a342f0011755bca880574f.png",
+    "id": "161",
+    "name": "นายธนา กิจไพบูลย์ชัย",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34185",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b0b9fa007e8a814662cd71f9ca92e732.png",
+    "id": "162",
+    "name": "นายธนาธร โล่ห์สุนทร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดลำปาง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34190",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ba5e6e3b422baa9cc58e9440cb70ee36.png",
+    "id": "163",
+    "name": "นายธเนศ เครือรัตน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34127",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6d76aab74416444f4e508c6640b12926.png",
+    "id": "164",
+    "name": "นายธรรมนัส พรหมเผ่า",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดพะเยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33964",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6d08bcf4e1ec0e9d067894ccc1b42f9f.png",
+    "id": "165",
+    "name": "นายธัญธร ธนินวัฒนาธร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34289",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b5f72a6e2ced57588783665bfcdaf893.png",
+    "id": "166",
+    "name": "นางสาวธัญธารีย์ สันตพันธุ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุบลราชธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34347",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/346f2909e13e7e20811ad92b60a04a9a.png",
+    "id": "167",
+    "name": "นายธัญวัจน์ กมลวงศ์วัฒน์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34248",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/039fe7fd96509d238fefebca93065273.png",
+    "id": "168",
+    "name": "นายธานินท์ นวลวัฒน์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34314",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9c2b764d335b5ff9d37195a688cd808c.png",
+    "id": "169",
+    "name": "นางธิวัลรัตน์ อังกินันทน์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดเพชรบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33936",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7842e1c6c8f4b7ab2880cfefd775b2e8.png",
+    "id": "170",
+    "name": "นางสาวธิษะณา ชุณหะวัณ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33954",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e6399ba6247e7ed12481e9e8786cd077.png",
+    "id": "171",
+    "name": "นางสาวธีรรัตน์ สำเร็จวาณิชย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34325",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/dd84d8d2435053a9ac31574a76125bb4.png",
+    "id": "160",
+    "name": "นายธนยศ ทิมสุวรรณ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดเลย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34192",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4e072a0ad2a342f0011755bca880574f.png",
+    "id": "161",
+    "name": "นายธนา กิจไพบูลย์ชัย",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34185",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b0b9fa007e8a814662cd71f9ca92e732.png",
+    "id": "162",
+    "name": "นายธนาธร โล่ห์สุนทร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดลำปาง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34190",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ba5e6e3b422baa9cc58e9440cb70ee36.png",
+    "id": "163",
+    "name": "นายธเนศ เครือรัตน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34127",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6d76aab74416444f4e508c6640b12926.png",
+    "id": "164",
+    "name": "นายธรรมนัส พรหมเผ่า",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดพะเยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33964",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6d08bcf4e1ec0e9d067894ccc1b42f9f.png",
+    "id": "165",
+    "name": "นายธัญธร ธนินวัฒนาธร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34289",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b5f72a6e2ced57588783665bfcdaf893.png",
+    "id": "166",
+    "name": "นางสาวธัญธารีย์ สันตพันธุ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุบลราชธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34347",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/346f2909e13e7e20811ad92b60a04a9a.png",
+    "id": "167",
+    "name": "นายธัญวัจน์ กมลวงศ์วัฒน์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34248",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/039fe7fd96509d238fefebca93065273.png",
+    "id": "168",
+    "name": "นายธานินท์ นวลวัฒน์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34314",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9c2b764d335b5ff9d37195a688cd808c.png",
+    "id": "169",
+    "name": "นางธิวัลรัตน์ อังกินันทน์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดเพชรบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33936",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7842e1c6c8f4b7ab2880cfefd775b2e8.png",
+    "id": "170",
+    "name": "นางสาวธิษะณา ชุณหะวัณ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33954",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e6399ba6247e7ed12481e9e8786cd077.png",
+    "id": "171",
+    "name": "นางสาวธีรรัตน์ สำเร็จวาณิชย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34389",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/332fd701794d48dd7f856ee5006b8298.png",
+    "id": "185",
+    "name": "นายนิคม บุญวิเศษ",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34221",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/efe2e006d7613e1f05c303857de85ad5.png",
+    "id": "186",
+    "name": "นางสาวนิตยา มีศรี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34357",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/030f460d1a4815443688a3f30f0f8d68.png",
+    "id": "187",
+    "name": "นายนิติพล ผิวเหมาะ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34133",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fc43c5830bfb43552fc7e7873ba473b5.png",
+    "id": "188",
+    "name": "นายนิติศักดิ์ ธรรมเพชร",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดพัทลุง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34093",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4012154e19babecf97493bf5f34f88e0.png",
+    "id": "189",
+    "name": "นายนิพนธ์ คนขยัน",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดบึงกาฬ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34328",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ad235079ff851790433ccceb11f2fb1a.png",
+    "id": "190",
+    "name": "นายนิยม วิวรรธนดิฐกุล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดแพร่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34198",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/12f0fa0b88877a8d61397146d3b606e7.png",
+    "id": "191",
+    "name": "นางนุชนาถ จารุวงษ์เสถียร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34291",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/da8388ec8cf5220845f7f929f666c9a3.png",
+    "id": "192",
+    "name": "นางสาวแนน บุณย์ธิดา สมชัย",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอุบลราชธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34428",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3600800163787_2.png",
+    "id": "193",
+    "name": "นายบัญชา เดชเจริญศิริกุล",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34419",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c19661d41a164aa3d76ddfc17b72825c.png",
+    "id": "194",
+    "name": "นายบัญญัติ บรรทัดฐาน",
+    "party": "พรรคประชาธิปัตย์",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34158",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/511b051d52f97ea1ebbecef73d1e56d6.png",
+    "id": "195",
+    "name": "นายบุญแก้ว สมวงศ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดยโสธร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34319",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8dabf758dd56f7ef66afa909fb7aa09f.png",
+    "id": "196",
+    "name": "นายบุญชัย กิตติธาราทรัพย์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดเพชรบูรณ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34167",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c4f86682c79d78fadf26e58749544e51.png",
+    "id": "197",
+    "name": "นางบุญยิ่ง นิติกาญจนา",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดราชบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34223",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1720600034501_2.jpg",
+    "id": "198",
+    "name": "นายบุญเลิศ แสงพันธุ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34330",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a410777e989e3d3a0c6634e8442a4b9d.png",
+    "id": "200",
+    "name": "นายปกรณ์ จีนาคำ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดแม่ฮ่องสอน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34249",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/adc9dde8f0f4b94b9c0354f723f61ce8.png",
+    "id": "201",
+    "name": "นายปกรณ์ มุ่งเจริญพร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34353",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ba25c154aacb4be11e4c3d3b4f0311c.png",
+    "id": "202",
+    "name": "นายปกรณ์วุฒิ อุดมพิพัฒน์สกุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34471",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3650500026041_2.png",
+    "id": "203",
+    "name": "นายจเด็ศ จันทรา",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดพิษณุโลก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34256",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fbb9bdb57dc183405fadc1691ba89e8b.png",
+    "id": "204",
+    "name": "นางปทิดา ตันติรัตนานนท์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34246",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c5caa58e87fe1064b6225930cc13c910.png",
+    "id": "205",
+    "name": "นายปรเมษฐ์ จินา",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34126",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1141200009808_2.png",
+    "id": "206",
+    "name": "นายปะดิธ สังขจาย",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดพระนครศรีอยุธยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34241",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d837c15684efaea4fd7e5cb2c53d62ac.png",
+    "id": "207",
+    "name": "นายประภัตร โพธสุธน",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดสุพรรณบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33976",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/92a93f7a691158b5f2a45f05add45f51.png",
+    "id": "208",
+    "name": "นางสาวประภา เฮงไพบูลย์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกาฬสินธุ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34259",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8784cefcb63fb28fc543ee527ce79e36.png",
+    "id": "209",
+    "name": "นางสาวประภาพร ทองปากน้ำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสุโขทัย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34167",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c4f86682c79d78fadf26e58749544e51.png",
+    "id": "197",
+    "name": "นางบุญยิ่ง  นิติกาญจนา",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดราชบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34223",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1720600034501_2.jpg",
+    "id": "198",
+    "name": "นายบุญเลิศ  แสงพันธุ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34330",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a410777e989e3d3a0c6634e8442a4b9d.png",
+    "id": "200",
+    "name": "นายปกรณ์  จีนาคำ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดแม่ฮ่องสอน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34249",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/adc9dde8f0f4b94b9c0354f723f61ce8.png",
+    "id": "201",
+    "name": "นายปกรณ์  มุ่งเจริญพร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34353",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6ba25c154aacb4be11e4c3d3b4f0311c.png",
+    "id": "202",
+    "name": "นายปกรณ์วุฒิ  อุดมพิพัฒน์สกุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34471",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3650500026041_2.png",
+    "id": "203",
+    "name": "นายจเด็ศ  จันทรา",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดพิษณุโลก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34256",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fbb9bdb57dc183405fadc1691ba89e8b.png",
+    "id": "204",
+    "name": "นางปทิดา  ตันติรัตนานนท์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34246",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c5caa58e87fe1064b6225930cc13c910.png",
+    "id": "205",
+    "name": "นายปรเมษฐ์  จินา",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34126",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1141200009808_2.png",
+    "id": "206",
+    "name": "นายปะดิธ  สังขจาย",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดพระนครศรีอยุธยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34241",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d837c15684efaea4fd7e5cb2c53d62ac.png",
+    "id": "207",
+    "name": "นายประภัตร  โพธสุธน",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดสุพรรณบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33976",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/92a93f7a691158b5f2a45f05add45f51.png",
+    "id": "208",
+    "name": "นางสาวประภา  เฮงไพบูลย์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกาฬสินธุ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34259",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8784cefcb63fb28fc543ee527ce79e36.png",
+    "id": "209",
+    "name": "นางสาวประภาพร  ทองปากน้ำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสุโขทัย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34113",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/541cb83d2e79685bc3048be70067ac92.png",
+    "id": "210",
+    "name": "นายประมวล  พงศ์ถาวราเดช",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดประจวบคีรีขันธ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34387",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fa2b5c3c6a409a5217a66c262392d377.png",
+    "id": "211",
+    "name": "นายประยุทธ์  ศิริพานิชย์",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34416",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/26d350586bc01958617b5ad00277974e.png",
+    "id": "212",
+    "name": "พลเอก ประวิตร  วงษ์สุวรรณ",
+    "party": "พรรคพลังประชารัฐ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34392",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d703c001106d447d56d49c205878d1bb.png",
+    "id": "213",
+    "name": "นางประวีณ์นุช  อินทปัญญา",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34074",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/09e81d9a1b7ba7998d691e635deae4d1.png",
+    "id": "214",
+    "name": "นายประสาท  ตันประเสริฐ",
+    "party": "พรรคชาติพัฒนา",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34110",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100400306216_2.jpg",
+    "id": "215",
+    "name": "นายประสิทธิ์  ปัทมผดุงศักดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดปทุมธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34465",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3570700517910_6.jpg",
+    "id": "216",
+    "name": "นางสาวละออง  ติยะไพรัช",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33978",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3460600400400_6.jpg",
+    "id": "217",
+    "name": "นายประเสริฐ  บุญเรือง",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกาฬสินธุ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34349",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a1e26909044fb54004cf02749ea0c092.png",
+    "id": "218",
+    "name": "นายประเสริฐพงษ์  ศรนุวัตร์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33995",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c3a6f11d3cb6fd5a80691775ce6b1d4c.png",
+    "id": "219",
+    "name": "นางสาวปรัชญาวรรณ  ไชยสืบ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดจันทบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33982",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/34d37016d990b6ad1c58653d9d21e76d.png",
+    "id": "220",
+    "name": "นายปริญญา  ฤกษ์หร่าย",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดกำแพงเพชร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34431",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3401400191476_5.png",
+    "id": "221",
+    "name": "นายปรีดา  บุญเพลิง",
+    "party": "พรรคกล้าธรรม",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34140",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f2182b4b4d6187ca4310f9c668932b34.png",
+    "id": "234",
+    "name": "นายพงษ์มนู ทองหนัก",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดพิษณุโลก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34055",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8a5dd64134812875cfd474df736376aa.png",
+    "id": "235",
+    "name": "นายพชร จันทรรวงทอง",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33972",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/eb3dc76d767049a5fae7f4b9a96363b5.png",
+    "id": "236",
+    "name": "นายพนม โพธิ์แก้ว",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกาญจนบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34217",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb86dc5019609741e04577102554c5bb.png",
+    "id": "237",
+    "name": "นางสาวพนิดา มงคลสวัสดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34100",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2c19c07f54998d3a8dc16a02bd5acd74.png",
+    "id": "238",
+    "name": "นายพรชัย ศรีสุริยันโยธิน",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดบุรีรัมย์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34252",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/12eba5f24dc95fabd9b0a8cc1f47f4e4.png",
+    "id": "239",
+    "name": "นายพรเทพ พูนศรีธนากูล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34058",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ee61e19819c618d3ba37c4c096a152e9.png",
+    "id": "240",
+    "name": "นายพรเทพ ศิริโรจนกุล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34257",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3581131ef92422f4c28af89a9555aa2a.png",
+    "id": "241",
+    "name": "นางพรรณสิริ กุลนาถศิริ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสุโขทัย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34342",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7ae4e4226db9b9e479ec8c1ca4140841.png",
+    "id": "242",
+    "name": "นายพริษฐ์ วัชรสินธุ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34051",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/752451eea0281fa5c60a8c30b7a1bf99.png",
+    "id": "243",
+    "name": "นายพลพีร์ สุวรรณฉวี",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33974",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3460700046837_2.png",
+    "id": "244",
+    "name": "นายพลากร พิมพะนิตย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกาฬสินธุ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34202",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8f1c3b90bd301792dfecfe2b0ae67893.png",
+    "id": "245",
+    "name": "นายพัฒนา สัพโส",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34245",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/67e9dfdedc51c96d4a81f3d60bf1d532.png",
+    "id": "246",
+    "name": "นายพันธ์ศักดิ์ บุญแทน",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34035",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9a6abbf84258af0843928eb267cdd030.png",
+    "id": "247",
+    "name": "นายพาณุวัฒณ์ สะสมทรัพย์",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34405",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a2dcf448be58c514bfca907cea81facf.png",
+    "id": "248",
+    "name": "นางพิชชารัตน์ เลาหพงศ์ชนะ",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34219",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d67a0f1d020215fd2f59e6ad188e29e9.png",
+    "id": "249",
+    "name": "นายพิชัย แจ้งจรรยาวงศ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34247",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d99b9d8f5a7bd9b056f54538d3aa1803.png",
+    "id": "250",
+    "name": "นายพิชัย ชมภูพล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34061",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/c07bbc34a1935019e4302e7fcd02385f.png",
+    "id": "252",
+    "name": "นายพิทักษ์เดช เดชเดโช",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34215",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8fa3b6bfa82444549bf8f803b8563704.png",
+    "id": "254",
+    "name": "นายพิบูลย์ รัชกิจประการ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสตูล",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34243",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6e7eb46e39f214c1c3c48d5b6ec67fa4.png",
+    "id": "255",
+    "name": "นายพิพิธ รัตนรักษ์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33950",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1102700061001_2.jpg",
+    "id": "256",
+    "name": "นางสาวพิมพ์กาญจน์ กีรติวิราปกรณ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34286",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f4d705e778fbcebec39e32c7daa9086e.png",
+    "id": "257",
+    "name": "นางพิมพกาญจน์ พลสมัคร",
+    "party": "พรรคไทรวมพลัง",
+    "province": "จังหวัดอุบลราชธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34317",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cac82c96829af5000fd257562aabbe77.png",
+    "id": "258",
+    "name": "นางสาวพิมพ์พร พรพฤฒิพันธุ์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดเพชรบูรณ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34141",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/defc6a9745f4a4e1717cdc544cf96547.png",
+    "id": "259",
+    "name": "นางสาวพิมพ์พิชชา ชัยศุภกิจเจริญ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดพิษณุโลก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34068",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f9f7255fab784286d94bff7bc5faad62.png",
+    "id": "260",
+    "name": "นางสาวพิมพ์ภัทรา วิชัยกุล",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34124",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cf6d50117cb0bcc39e6039c823d4a895.png",
+    "id": "261",
+    "name": "นางสาวพิมพฤดา ตันจรารักษ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดพระนครศรีอยุธยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34472",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3419900746610_7.png",
+    "id": "262",
+    "name": "นายขจิตร ชัยนิคม",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34073",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3609700076376_3.png",
+    "id": "263",
+    "name": "นายพีระเดช ศิริวันสาณฑ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34451",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100902973651_2.jpg",
+    "id": "264",
+    "name": "นายอนุชา บูรพชัยศรี",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34307",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1509900535727_2.jpg",
+    "id": "265",
+    "name": "นางสาวพุธิตา ชัยอนันต์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34354",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9f3313318c2b31630d04323586340a33.png",
+    "id": "266",
+    "name": "นายพูนศักดิ์ จันทร์จำปี",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33980",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ed901c4be346bb59a058e15ee4fb9fb7.png",
+    "id": "267",
+    "name": "นายเพชรภูมิ อาภรณ์รัตน์",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดกำแพงเพชร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34304",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9465646abe4e5c71862547dcc50b8acd.png",
+    "id": "268",
+    "name": "นางสาวเพชรรัตน์ ใหม่ชมภู",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34384",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/837525dc5f33281717066a9b07c632e3.png",
+    "id": "269",
+    "name": "นายไพโรจน์ โล่ห์สุนทร",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34370",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1909800240357_2.jpg",
+    "id": "270",
+    "name": "นางสาวภคมน หนุนอนันต์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34295",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3150600448561_7.jpg",
+    "id": "271",
+    "name": "นายภราดร ปริศนานันทกุล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอ่างทอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33938",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100902244641_2.jpg",
+    "id": "272",
+    "name": "นายภัณฑิล น่วมเจิม",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34135",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3579900188977_2.jpg",
+    "id": "273",
+    "name": "นายภัทรพงศ์ ภัทรประสิทธิ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดพิจิตร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34311",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7a59122cf07164718190e785843086f4.png",
+    "id": "274",
+    "name": "นายภัทรพงษ์ ลีลาภัทร์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33941",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1101400238240_2.jpg",
+    "id": "275",
+    "name": "นางสาวภัสริน รามวงศ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34030",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b79805244add4d43cf4570ff3aab5755.png",
+    "id": "276",
+    "name": "นายภาคภูมิ บูลย์ประมุข",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดตาก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33987",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5ac256c9ce3f8439e94e1d5d658ebba3.png",
+    "id": "277",
+    "name": "นายภาควัต ศรีสุรพล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดขอนแก่น",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34272",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/0fe75d199a299f5bc126f8110303cbde.png",
+    "id": "278",
+    "name": "นายภาณุ พรวัฒนา",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34193",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e9c308f2969ff7f4ea4ca08d3055e0a2.png",
+    "id": "279",
+    "name": "นายภูมินทร์ ลีธีระประเสริฐ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34039",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3480400075343_4.png",
+    "id": "280",
+    "name": "นายภูมิพัฒน์ พชรทรัพย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครพนม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33946",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/07e0cc48bb40df1b30ce63168759ea49.png",
+    "id": "281",
+    "name": "นายภูริวรรธก์ ใจสำราญ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34012",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a0ab41a4d134bb1adc5b6bc892304971.png",
+    "id": "282",
+    "name": "นายมณเฑียร สงฆ์ประชา",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดชัยนาท",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34040",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8a8788f61279df5362d7e8d58ce08a94.png",
+    "id": "283",
+    "name": "นางมนพร เจริญศรี",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครพนม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34108",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9539fc63353c8d8aaddd441990ac1be6.png",
+    "id": "284",
+    "name": "นายมนัสนันท์ หลีนวรัตน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดปทุมธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34181",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b3ee541e05d1246fbdc5e7870edb99da.png",
+    "id": "285",
+    "name": "นางสาวมัลลิกา จิระพันธุ์วาณิช",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดลพบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34350",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9a2dc4f96ed6d64d18ba2d65d420f246.png",
+    "id": "286",
+    "name": "นายมานพ คีรีภูวดล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34072",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f2d5c431f73e4571f1a7b7b10129863c.png",
+    "id": "287",
+    "name": "นายมานพ ศรีผึ้ง",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34475",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3800400193997_2.jpg",
+    "id": "288",
+    "name": "นายก้องเกียรติ เกตุสมบัติ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33970",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/341108ab0402bb3ffdb2b9d271b16f1a.png",
+    "id": "289",
+    "name": "นายยศวัฒน์ มาไพศาลสิน",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกาญจนบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34009",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fe4864c752590ea6dd20f4aea821bbbb.png",
+    "id": "290",
+    "name": "นายยอดชาย พึ่งพร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34062",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d449d08b8e5268b0a39ffc7fb583a375.png",
+    "id": "291",
+    "name": "ว่าที่ร้อยโท ยุทธการ รัตนมาศ",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34120",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1334b3b5a12d823ad57de09a11ae0b55.png",
+    "id": "292",
+    "name": "นายยูนัยดี วาบา",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดปัตตานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34057",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b3c97a51c2bd4606830f2f1ba154e44f.png",
+    "id": "293",
+    "name": "นายรชตะ ด่านกุล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34187",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/49e5f182d02c1253f7fe98c1ed704677.png",
+    "id": "294",
+    "name": "นางสาวรภัสสรณ์ นิยะโมสถ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดลำปาง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34134",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ddcba1cb9521d697ff9319994c9ddbdd.png",
+    "id": "295",
+    "name": "นายร่มธรรม ขำนุรักษ์",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดพัทลุง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34108",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9539fc63353c8d8aaddd441990ac1be6.png",
+    "id": "284",
+    "name": "นายมนัสนันท์ หลีนวรัตน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดปทุมธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34181",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b3ee541e05d1246fbdc5e7870edb99da.png",
+    "id": "285",
+    "name": "นางสาวมัลลิกา จิระพันธุ์วาณิช",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดลพบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34350",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9a2dc4f96ed6d64d18ba2d65d420f246.png",
+    "id": "286",
+    "name": "นายมานพ คีรีภูวดล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34072",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f2d5c431f73e4571f1a7b7b10129863c.png",
+    "id": "287",
+    "name": "นายมานพ ศรีผึ้ง",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34475",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3800400193997_2.jpg",
+    "id": "288",
+    "name": "นายก้องเกียรติ เกตุสมบัติ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33970",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/341108ab0402bb3ffdb2b9d271b16f1a.png",
+    "id": "289",
+    "name": "นายยศวัฒน์ มาไพศาลสิน",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกาญจนบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34009",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fe4864c752590ea6dd20f4aea821bbbb.png",
+    "id": "290",
+    "name": "นายยอดชาย พึ่งพร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34062",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d449d08b8e5268b0a39ffc7fb583a375.png",
+    "id": "291",
+    "name": "ว่าที่ร้อยโท ยุทธการ รัตนมาศ",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34120",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1334b3b5a12d823ad57de09a11ae0b55.png",
+    "id": "292",
+    "name": "นายยูนัยดี วาบา",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดปัตตานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34057",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b3c97a51c2bd4606830f2f1ba154e44f.png",
+    "id": "293",
+    "name": "นายรชตะ ด่านกุล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34187",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/49e5f182d02c1253f7fe98c1ed704677.png",
+    "id": "294",
+    "name": "นางสาวรภัสสรณ์ นิยะโมสถ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดลำปาง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34134",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ddcba1cb9521d697ff9319994c9ddbdd.png",
+    "id": "295",
+    "name": "นายร่มธรรม ขำนุรักษ์",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดพัทลุง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34281",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1539900316502_2.jpg",
+    "id": "296",
+    "name": "นายรวี เล็กอุทัย",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุตรดิตถ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34351",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/44f7b4c8d1ce416f718d874bb4d75ad4.png",
+    "id": "297",
+    "name": "นายรอมฎอน ปันจอร์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33962",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/06ab1dbf0cd0cc001f45e19080d48534.png",
+    "id": "298",
+    "name": "นางสาวรักชนก ศรีนอก",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34189",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d0608f6aeafa7b56c692b4dec44b848a.png",
+    "id": "299",
+    "name": "นายรังสรรค์ มณีรัตน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดลำพูน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34097",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/eabf4d0abff0833683e33aae1306f70f.png",
+    "id": "300",
+    "name": "นายรังสิกร ทิมาตฤกะ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดบุรีรัมย์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34339",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a35bd8ef480b22e1f43224f6a80490d1.png",
+    "id": "301",
+    "name": "นายรังสิมันต์ โรม",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34029",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e697354a406a43c23a763822026cc2af.png",
+    "id": "302",
+    "name": "นายรัชต์พงศ์ สร้อยสุวรรณ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดตาก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34218",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1119900289878_2.jpg",
+    "id": "303",
+    "name": "นางสาวรัชนก สุขประเสริฐ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34173",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6be1abfff150beccd2a2be1a0571b2bb.png",
+    "id": "304",
+    "name": "นางรัชนี พลซื่อ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดร้อยเอ็ด",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34151",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/314b2ce04e4cbe26e960b1f4041aeda4.png",
+    "id": "305",
+    "name": "นายรัฐ คลังแสง",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดมหาสารคาม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34059",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ed52faa670418b4c55c42cd22eb8479e.png",
+    "id": "306",
+    "name": "นายราชิต สุดพุ่ม",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดนครศรีธรรมราช",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34292",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/0cc5fec75a5ca14a089469d52f6b237f.png",
+    "id": "307",
+    "name": "นางรำพูล ตันติวณิชชานนท์",
+    "party": "พรรคไทยสร้างไทย",
+    "province": "จังหวัดอุบลราชธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34102",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cee0c833caff588f934904b7c4d9466.png",
+    "id": "308",
+    "name": "นายรุ่งโรจน์ ทองศรี",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดบุรีรัมย์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34255",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9afca5b516eb038d1f9eabfcbb82a559.png",
+    "id": "309",
+    "name": "นายเรืองวิทย์ คูณวัฒนาพงษ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34315",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f14a171fee7964eef201ac094215917b.png",
+    "id": "310",
+    "name": "นายฤกษ์ อยู่ดี",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดเพชรบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34148",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb9c0a3c9077096846ff7ccd2bf26614.png",
+    "id": "311",
+    "name": "นายลัทธชัย โชคชัยวัฒนากร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดมหาสารคาม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34254",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a6eeb60e5671ba98879926f814204955.png",
+    "id": "312",
+    "name": "นายล้ำเลิศ พัวพัฒนโชติ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34478",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3129900248795_2.jpg",
+    "id": "313",
+    "name": "นายธนพงศ์ ธนเดชากุล",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34364",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/5580190002952_2.jpg",
+    "id": "314",
+    "name": "นายเลาฟั้ง บัณฑิตเทอดสกุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34323",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fd10804595089c09b0ced6f15a48c7c2.png",
+    "id": "315",
+    "name": "นายเลิศศักดิ์ พัฒนชัยกุล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดเลย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34244",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/df380221456e70ff3f165cff27fb7758.png",
+    "id": "316",
+    "name": "นางสาววชิราภรณ์ กาญจนะ",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34320",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e91720c0c762d041e927835f5fa764f6.png",
+    "id": "317",
+    "name": "นายวรโชติ สุคนธ์ขจร",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดเพชรบูรณ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34001",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7439d950edcd71d5cd557936e5add97d.png",
+    "id": "318",
+    "name": "นายวรท ศิริรักษ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34360",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/dae426f5ef9af76386e6a1200e5160f6.png",
+    "id": "319",
+    "name": "นายวรภพ วิริยะโรจน์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34102",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cee0c833caff588f934904b7c4d9466.png",
+    "id": "308",
+    "name": "นายรุ่งโรจน์ ทองศรี",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดบุรีรัมย์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34255",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9afca5b516eb038d1f9eabfcbb82a559.png",
+    "id": "309",
+    "name": "นายเรืองวิทย์ คูณวัฒนาพงษ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34315",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f14a171fee7964eef201ac094215917b.png",
+    "id": "310",
+    "name": "นายฤกษ์ อยู่ดี",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดเพชรบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34148",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb9c0a3c9077096846ff7ccd2bf26614.png",
+    "id": "311",
+    "name": "นายลัทธชัย โชคชัยวัฒนากร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดมหาสารคาม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34254",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a6eeb60e5671ba98879926f814204955.png",
+    "id": "312",
+    "name": "นายล้ำเลิศ พัวพัฒนโชติ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34478",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3129900248795_2.jpg",
+    "id": "313",
+    "name": "นายธนพงศ์ ธนเดชากุล",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34364",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/5580190002952_2.jpg",
+    "id": "314",
+    "name": "นายเลาฟั้ง บัณฑิตเทอดสกุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34323",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fd10804595089c09b0ced6f15a48c7c2.png",
+    "id": "315",
+    "name": "นายเลิศศักดิ์ พัฒนชัยกุล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดเลย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34244",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/df380221456e70ff3f165cff27fb7758.png",
+    "id": "316",
+    "name": "นางสาววชิราภรณ์ กาญจนะ",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34320",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e91720c0c762d041e927835f5fa764f6.png",
+    "id": "317",
+    "name": "นายวรโชติ สุคนธ์ขจร",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดเพชรบูรณ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34001",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7439d950edcd71d5cd557936e5add97d.png",
+    "id": "318",
+    "name": "นายวรท ศิริรักษ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34360",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/dae426f5ef9af76386e6a1200e5160f6.png",
+    "id": "319",
+    "name": "นายวรภพ วิริยะโรจน์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34102",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/1cee0c833caff588f934904b7c4d9466.png",
+    "id": "308",
+    "name": "นายรุ่งโรจน์ ทองศรี",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดบุรีรัมย์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34255",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9afca5b516eb038d1f9eabfcbb82a559.png",
+    "id": "309",
+    "name": "นายเรืองวิทย์ คูณวัฒนาพงษ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34315",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/f14a171fee7964eef201ac094215917b.png",
+    "id": "310",
+    "name": "นายฤกษ์ อยู่ดี",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดเพชรบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34148",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cb9c0a3c9077096846ff7ccd2bf26614.png",
+    "id": "311",
+    "name": "นายลัทธชัย โชคชัยวัฒนากร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดมหาสารคาม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34254",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a6eeb60e5671ba98879926f814204955.png",
+    "id": "312",
+    "name": "นายล้ำเลิศ พัวพัฒนโชติ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดสุรินทร์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34478",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3129900248795_2.jpg",
+    "id": "313",
+    "name": "นายธนพงศ์ ธนเดชากุล",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34364",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/5580190002952_2.jpg",
+    "id": "314",
+    "name": "นายเลาฟั้ง บัณฑิตเทอดสกุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34323",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fd10804595089c09b0ced6f15a48c7c2.png",
+    "id": "315",
+    "name": "นายเลิศศักดิ์ พัฒนชัยกุล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดเลย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34244",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/df380221456e70ff3f165cff27fb7758.png",
+    "id": "316",
+    "name": "นางสาววชิราภรณ์ กาญจนะ",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสุราษฎร์ธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34320",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e91720c0c762d041e927835f5fa764f6.png",
+    "id": "317",
+    "name": "นายวรโชติ สุคนธ์ขจร",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดเพชรบูรณ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34001",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7439d950edcd71d5cd557936e5add97d.png",
+    "id": "318",
+    "name": "นายวรท ศิริรักษ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34360",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/dae426f5ef9af76386e6a1200e5160f6.png",
+    "id": "319",
+    "name": "นายวรภพ วิริยะโรจน์",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34277",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/735f74d15c3a210bc06ba20db1255eaa.png",
+    "id": "332",
+    "name": "นายวัชระพล ขาวขำ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุดรธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33992",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e9aa8f3d9a4197c44c023109c733c9cd.png",
+    "id": "333",
+    "name": "นายวันนิวัติ สมบูรณ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดขอนแก่น",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34321",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/4538fbfe703f67a129b5308016712a1f.png",
+    "id": "334",
+    "name": "นางวันเพ็ญ พร้อมพัฒน์",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดเพชรบูรณ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34420",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/06d75ee6fd4d0600476e73b56acd42dc.png",
+    "id": "335",
+    "name": "นายวันมูหะมัดนอร์ มะทา",
+    "party": "พรรคประชาชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34348",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1100900382594_4.jpg",
+    "id": "336",
+    "name": "นายวาโย อัศวรุ่งเรือง",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34280",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6fc60f43d8a63bf8df99c8225ec221fc.png",
+    "id": "337",
+    "name": "นายวารุจ ศิริวัฒน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุตรดิตถ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34020",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3a677bd2e2df3f9e446cef2b0719f869.png",
+    "id": "338",
+    "name": "นายวิชัย สุดสวาสดิ์",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดชุมพร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34406",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/454d0d9eb1d19db367079e5925bb6662.png",
+    "id": "339",
+    "name": "นายวิทยา แก้วภราดัย",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33949",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/174326b5431f9840cd2bf5d56fb77c8b.png",
+    "id": "340",
+    "name": "นายวิทวัส ติชะวาณิชย์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34188",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ab5edfacada14e9e4a731cc9ff8f1633.png",
+    "id": "341",
+    "name": "นายวิทวิสิทธิ์ ปันสวนปลูก",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดลำพูน",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34136",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/dd0cf1dcd82c21d51fc67515390dc523.png",
+    "id": "342",
+    "name": "นายวินัย ภัทรประสิทธิ์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดพิจิตร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33990",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/a5d82421b7be18cc5774b133cd9b5914.png",
+    "id": "343",
+    "name": "นางสาววิภาณี ภูคำวงศ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดขอนแก่น",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33973",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d363e5808f1f83b332af792f42d2a354.png",
+    "id": "344",
+    "name": "นายวิรัช พิมพะนิตย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกาฬสินธุ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34152",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ab8bbf32be780bb02e1105db32767dff.png",
+    "id": "345",
+    "name": "นายวิริยะ ทองผา",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดมุกดาหาร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34371",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7e1aa78a2827a2702089e59d94a82d95.png",
+    "id": "346",
+    "name": "พลตำรวจโท วิโรจน์ เปาอินทร์",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34338",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e142da365ba5770aa4a3361bf0a518c7.png",
+    "id": "347",
+    "name": "นายวิโรจน์ ลักขณาอดิศร",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34196",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2bcdd92e9aaab34ccc170bdf7fa41c26.png",
+    "id": "348",
+    "name": "นางสาววิลดา อินฉัตร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34300",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b1d163d81f71563b44ae07b917b03006.png",
+    "id": "349",
+    "name": "นางสาววิสาระดี เตชะธีราวัฒน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดเชียงราย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34382",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9c08dd5cedb45497eedb440f37b18163.png",
+    "id": "350",
+    "name": "นายวิสุทธิ์ ไชยณรุณ",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33983",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1361300071481_2.jpg",
+    "id": "351",
+    "name": "นายวีรนันท์ ฮวดศรี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดขอนแก่น",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34222",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1100701007637_2.jpg",
+    "id": "352",
+    "name": "นายวีรภัทร คันธะ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34446",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ab8240c673d79cf15dfdd872ebda6340.png",
+    "id": "353",
+    "name": "นายวีรวุธ รักเที่ยง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34195",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/23d1b331f7f0dc7c0a72a312785aa48d.png",
+    "id": "354",
+    "name": "นายวีระพล จิตสัมฤทธิ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34220",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/00176c841a199f679a74889637b9eb46.png",
+    "id": "355",
+    "name": "นายวุฒินันท์ บุญชู",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33973",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/d363e5808f1f83b332af792f42d2a354.png",
+    "id": "344",
+    "name": "นายวิรัช พิมพะนิตย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดกาฬสินธุ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34152",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ab8bbf32be780bb02e1105db32767dff.png",
+    "id": "345",
+    "name": "นายวิริยะ ทองผา",
+    "party": "พรรคพลังประชารัฐ",
+    "province": "จังหวัดมุกดาหาร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34371",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7e1aa78a2827a2702089e59d94a82d95.png",
+    "id": "346",
+    "name": "พลตำรวจโท วิโรจน์ เปาอินทร์",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34338",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/e142da365ba5770aa4a3361bf0a518c7.png",
+    "id": "347",
+    "name": "นายวิโรจน์ ลักขณาอดิศร",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34196",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2bcdd92e9aaab34ccc170bdf7fa41c26.png",
+    "id": "348",
+    "name": "นางสาววิลดา อินฉัตร",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34300",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/b1d163d81f71563b44ae07b917b03006.png",
+    "id": "349",
+    "name": "นางสาววิสาระดี เตชะธีราวัฒน์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดเชียงราย",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34382",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9c08dd5cedb45497eedb440f37b18163.png",
+    "id": "350",
+    "name": "นายวิสุทธิ์ ไชยณรุณ",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33983",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1361300071481_2.jpg",
+    "id": "351",
+    "name": "นายวีรนันท์ ฮวดศรี",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดขอนแก่น",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34222",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1100701007637_2.jpg",
+    "id": "352",
+    "name": "นายวีรภัทร คันธะ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34446",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/ab8240c673d79cf15dfdd872ebda6340.png",
+    "id": "353",
+    "name": "นายวีรวุธ รักเที่ยง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34195",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/23d1b331f7f0dc7c0a72a312785aa48d.png",
+    "id": "354",
+    "name": "นายวีระพล จิตสัมฤทธิ์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดศรีสะเกษ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34220",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/00176c841a199f679a74889637b9eb46.png",
+    "id": "355",
+    "name": "นายวุฒินันท์ บุญชู",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรปราการ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34207",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2ee9f609aef96ea040fb5726776c21e2.png",
+    "id": "368",
+    "name": "นายศาสตรา ศรีปาน",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสงขลา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34056",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3309800105231_5.jpg",
+    "id": "369",
+    "name": "นายศิรสิทธิ์ เลิศด้วยลาภ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34228",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/76fe281b0635f75647936ce1cf907177.png",
+    "id": "370",
+    "name": "นายศิรสิทธิ์ สงนุ้ย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรสาคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34334",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3272c9dfb2d0412066572741cf8afbcd.png",
+    "id": "371",
+    "name": "นางสาวศิริกัญญา ตันสกุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34227",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6d0acb8d0fa403659102a17a662b4031.png",
+    "id": "372",
+    "name": "นายศิริโรจน์ ธนิกกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรสาคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34137",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3120101397155_6.jpg",
+    "id": "373",
+    "name": "นายศิริวัฒน์ ขจรประศาสน์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดพิจิตร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34017",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/90c77874c13a711ea040c3830e695160.png",
+    "id": "374",
+    "name": "นายศิวะ พงศ์ธีระดุลย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดชัยภูมิ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34045",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5063dbf3d9cdd8f1ac0131dd55b3dc09.png",
+    "id": "375",
+    "name": "นายศุทธสิทธิ์ พจน์ฐศักดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34033",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1101700154114_4.jpg",
+    "id": "376",
+    "name": "นายศุภโชค ศรีสุขจร",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34355",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8764cf6a0d1951ef09bd0c66d2dd564d.png",
+    "id": "377",
+    "name": "นายศุภโชติ ไชยสัจ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33943",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8835021579c1d793504a7c751f44c339.png",
+    "id": "378",
+    "name": "นายศุภณัฐ มีนชัยนันท์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34142",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9db974f73bc5dc9b7301d08f9dad746b.png",
+    "id": "379",
+    "name": "นายศุภปกรณ์ กิตยาธิคุณ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดพิษณุโลก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34207",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2ee9f609aef96ea040fb5726776c21e2.png",
+    "id": "368",
+    "name": "นายศาสตรา ศรีปาน",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดสงขลา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34056",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3309800105231_5.jpg",
+    "id": "369",
+    "name": "นายศิรสิทธิ์ เลิศด้วยลาภ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34228",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/76fe281b0635f75647936ce1cf907177.png",
+    "id": "370",
+    "name": "นายศิรสิทธิ์ สงนุ้ย",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรสาคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34334",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/3272c9dfb2d0412066572741cf8afbcd.png",
+    "id": "371",
+    "name": "นางสาวศิริกัญญา ตันสกุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34227",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6d0acb8d0fa403659102a17a662b4031.png",
+    "id": "372",
+    "name": "นายศิริโรจน์ ธนิกกุล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดสมุทรสาคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34137",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3120101397155_6.jpg",
+    "id": "373",
+    "name": "นายศิริวัฒน์ ขจรประศาสน์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดพิจิตร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34017",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/90c77874c13a711ea040c3830e695160.png",
+    "id": "374",
+    "name": "นายศิวะ พงศ์ธีระดุลย์",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดชัยภูมิ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34045",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5063dbf3d9cdd8f1ac0131dd55b3dc09.png",
+    "id": "375",
+    "name": "นายศุทธสิทธิ์ พจน์ฐศักดิ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34033",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1101700154114_4.jpg",
+    "id": "376",
+    "name": "นายศุภโชค ศรีสุขจร",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34355",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8764cf6a0d1951ef09bd0c66d2dd564d.png",
+    "id": "377",
+    "name": "นายศุภโชติ ไชยสัจ",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33943",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8835021579c1d793504a7c751f44c339.png",
+    "id": "378",
+    "name": "นายศุภณัฐ มีนชัยนันท์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34142",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9db974f73bc5dc9b7301d08f9dad746b.png",
+    "id": "379",
+    "name": "นายศุภปกรณ์ กิตยาธิคุณ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดพิษณุโลก",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33934",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9db93052ab6c9da1b8a715ace70e0e7c.png",
+    "id": "404",
+    "name": "นายสฤษฏ์พงษ์ เกี่ยวข้อง",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกระบี่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34116",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2da546a8028b05b8ccde0d6f7095e844.png",
+    "id": "405",
+    "name": "นายสฤษดิ์ บุตรเนียร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดปราจีนบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34165",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3209900215411_2.png",
+    "id": "406",
+    "name": "นางสว่างจิตต์ เลาหะโรจนพันธ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34007",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1209700407281_2.jpg",
+    "id": "407",
+    "name": "นายสหัสวัต คุ้มคง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34010",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/bed4a7a3e69ef109d8363771f2cbf26c.png",
+    "id": "408",
+    "name": "นายสะถิระ เผือกประพันธุ์",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34111",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9a81b7f52b71d9ee6b422b3bc4ac376f.png",
+    "id": "409",
+    "name": "นายสังคม แดงโชติ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดประจวบคีรีขันธ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34071",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6788e625914c65d029e8ec6bb459fb2d.png",
+    "id": "410",
+    "name": "นายสัญญา นิลสุพรรณ",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34021",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fe950e9f1e23f02bb99a2a97f7e9f5bc.png",
+    "id": "411",
+    "name": "นายสันต์ แซ่ตั้ง",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดชุมพร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34085",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5363698db6130646a45b8205a32085fc.png",
+    "id": "412",
+    "name": "นายสัมพันธ์ มะยูโซ๊ะ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34015",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cd626e26e543f304e1d9aa93254289da.png",
+    "id": "413",
+    "name": "นายสัมฤทธิ์ แทนทรัพย์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดชัยภูมิ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34180",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cc45a572fa0b38b6dff88ac31e0c5cb1.png",
+    "id": "414",
+    "name": "นายสาธิต ทวีผล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดลพบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34121",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5ea46309b0e3cd155a54b8b2d68d895e.png",
+    "id": "415",
+    "name": "นายสาเหะมูหามัด อัลอิดรุส",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดปัตตานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33934",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9db93052ab6c9da1b8a715ace70e0e7c.png",
+    "id": "404",
+    "name": "นายสฤษฏ์พงษ์ เกี่ยวข้อง",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกระบี่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34116",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2da546a8028b05b8ccde0d6f7095e844.png",
+    "id": "405",
+    "name": "นายสฤษดิ์ บุตรเนียร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดปราจีนบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34165",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3209900215411_2.png",
+    "id": "406",
+    "name": "นางสว่างจิตต์ เลาหะโรจนพันธ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34007",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1209700407281_2.jpg",
+    "id": "407",
+    "name": "นายสหัสวัต คุ้มคง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34010",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/bed4a7a3e69ef109d8363771f2cbf26c.png",
+    "id": "408",
+    "name": "นายสะถิระ เผือกประพันธุ์",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34111",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9a81b7f52b71d9ee6b422b3bc4ac376f.png",
+    "id": "409",
+    "name": "นายสังคม แดงโชติ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดประจวบคีรีขันธ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34071",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6788e625914c65d029e8ec6bb459fb2d.png",
+    "id": "410",
+    "name": "นายสัญญา นิลสุพรรณ",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34021",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fe950e9f1e23f02bb99a2a97f7e9f5bc.png",
+    "id": "411",
+    "name": "นายสันต์ แซ่ตั้ง",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดชุมพร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34085",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5363698db6130646a45b8205a32085fc.png",
+    "id": "412",
+    "name": "นายสัมพันธ์ มะยูโซ๊ะ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34015",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cd626e26e543f304e1d9aa93254289da.png",
+    "id": "413",
+    "name": "นายสัมฤทธิ์ แทนทรัพย์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดชัยภูมิ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34180",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cc45a572fa0b38b6dff88ac31e0c5cb1.png",
+    "id": "414",
+    "name": "นายสาธิต ทวีผล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดลพบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34121",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5ea46309b0e3cd155a54b8b2d68d895e.png",
+    "id": "415",
+    "name": "นายสาเหะมูหามัด อัลอิดรุส",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดปัตตานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33934",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9db93052ab6c9da1b8a715ace70e0e7c.png",
+    "id": "404",
+    "name": "นายสฤษฏ์พงษ์ เกี่ยวข้อง",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดกระบี่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34116",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2da546a8028b05b8ccde0d6f7095e844.png",
+    "id": "405",
+    "name": "นายสฤษดิ์ บุตรเนียร",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดปราจีนบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34165",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3209900215411_2.png",
+    "id": "406",
+    "name": "นางสว่างจิตต์ เลาหะโรจนพันธ์",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดระยอง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34007",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1209700407281_2.jpg",
+    "id": "407",
+    "name": "นายสหัสวัต คุ้มคง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34010",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/bed4a7a3e69ef109d8363771f2cbf26c.png",
+    "id": "408",
+    "name": "นายสะถิระ เผือกประพันธุ์",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดชลบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34111",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9a81b7f52b71d9ee6b422b3bc4ac376f.png",
+    "id": "409",
+    "name": "นายสังคม แดงโชติ",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดประจวบคีรีขันธ์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34071",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6788e625914c65d029e8ec6bb459fb2d.png",
+    "id": "410",
+    "name": "นายสัญญา นิลสุพรรณ",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดนครสวรรค์",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34021",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/fe950e9f1e23f02bb99a2a97f7e9f5bc.png",
+    "id": "411",
+    "name": "นายสันต์ แซ่ตั้ง",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดชุมพร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34085",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5363698db6130646a45b8205a32085fc.png",
+    "id": "412",
+    "name": "นายสัมพันธ์ มะยูโซ๊ะ",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดนราธิวาส",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34015",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cd626e26e543f304e1d9aa93254289da.png",
+    "id": "413",
+    "name": "นายสัมฤทธิ์ แทนทรัพย์",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดชัยภูมิ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34180",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/cc45a572fa0b38b6dff88ac31e0c5cb1.png",
+    "id": "414",
+    "name": "นายสาธิต ทวีผล",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดลพบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34121",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/5ea46309b0e3cd155a54b8b2d68d895e.png",
+    "id": "415",
+    "name": "นายสาเหะมูหามัด อัลอิดรุส",
+    "party": "พรรคประชาชาติ",
+    "province": "จังหวัดปัตตานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33988",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/40f856dc815e52572871e4f3a30b85f4.png",
+    "id": "416",
+    "name": "นายสิงหภณ ดีนาง",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดขอนแก่น",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34179",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/0bf24c410537ad0753757827da423dd3.png",
+    "id": "417",
+    "name": "นายสิทธิชัย หล่อประสงค์สุข",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดลพบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34340",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/845c11c4fbae657f788b0ba5400a2b1e.png",
+    "id": "418",
+    "name": "นายสิทธิพล วิบูลย์ธนากุล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34034",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/5102200018738_7.png",
+    "id": "419",
+    "name": "พันโท สินธพ แก้วพิจิตร",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33965",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1101402029702_2.jpg",
+    "id": "420",
+    "name": "นายสิริน สงวนสิน",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=33948",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/7c44af0b11dc009c73a7f00ecc1f51eb.png",
+    "id": "421",
+    "name": "นางสาวสิริลภัส กองตระการ",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดกรุงเทพมหานคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34267",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/114f87369d48170bf20d4af1bb46ab72.png",
+    "id": "422",
+    "name": "นางสุขสมรวย วันทนียกุล",
+    "party": "พรรคภูมิใจไทย",
+    "province": "จังหวัดอำนาจเจริญ",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34476",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3100503513761_3.jpg",
+    "id": "424",
+    "name": "นายเอกพร รักความสุข",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34025",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1929900266153_5.jpg",
+    "id": "425",
+    "name": "นางสาวสุณัฐชา โล่สถาพรพิพิธ",
+    "party": "พรรคประชาธิปัตย์",
+    "province": "จังหวัดตรัง",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34455",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3460300003227_2.jpg",
+    "id": "426",
+    "name": "นายฐากร ตัณฑสิทธิ์",
+    "party": "พรรคไทยสร้างไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34290",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/1349900776301_2.jpg",
+    "id": "427",
+    "name": "นางสาวสุดารัตน์ พิทักษ์พรพัลลภ",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดอุบลราชธานี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34470",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3839900317081_2.png",
+    "id": "428",
+    "name": "นายก่อแก้ว พิกุลทอง",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34011",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6a42209651e5d80a5492e983fc5dcde5.png",
+    "id": "465",
+    "name": "นายอนุชา นาคาศัย",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดชัยนาท",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34037",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3730101346172_3.jpg",
+    "id": "466",
+    "name": "นายอนุชา สะสมทรัพย์",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34413",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3101203545367_5.jpg",
+    "id": "467",
+    "name": "นายอนุทิน ชาญวีรกูล",
+    "party": "พรรคภูมิใจไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34171",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8bb02922848f2de15e6c4af25cca53a7.png",
+    "id": "468",
+    "name": "นายอนุรักษ์ จุรีมาศ",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดร้อยเอ็ด",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34128",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9c7482d818eacaae3145e505422bd14c.png",
+    "id": "469",
+    "name": "นายอนุรัตน์ ตันบรรจง",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดพะเยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34077",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/63aef2eb042fc8b35de8611ff38b3c5b.png",
+    "id": "470",
+    "name": "นายอนุสรณ์ แก้ววิเชียร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนนทบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34396",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3499900137206_3.jpg",
+    "id": "471",
+    "name": "นายอนุสรณ์ เอี่ยมสะอาด",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34052",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3300700001486_4.jpg",
+    "id": "472",
+    "name": "นายอภิชา เลิศพชรกมล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34316",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/61ac34e729963f35018ca7418ad6be4b.png",
+    "id": "473",
+    "name": "จ่าอากาศเอก อภิชาติ แก้วโกศล",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดเพชรบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34199",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8d13a891eb4ed85104b369a3a2831dea.png",
+    "id": "474",
+    "name": "นายอภิชาติ ตีรสวัสดิชัย",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34336",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8d1a06f7910a1e748edd3c5c8101b232.png",
+    "id": "476",
+    "name": "นายอภิสิทธิ์ ไล่สัตรูไกล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34309",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2fd48adb3b28008aae99f6fb52c94035.png",
+    "id": "478",
+    "name": "ว่าที่ร้อยตรีหญิง อรพรรณ จันตาเรือง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34011",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/6a42209651e5d80a5492e983fc5dcde5.png",
+    "id": "465",
+    "name": "นายอนุชา นาคาศัย",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดชัยนาท",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34037",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3730101346172_3.jpg",
+    "id": "466",
+    "name": "นายอนุชา สะสมทรัพย์",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดนครปฐม",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34413",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3101203545367_5.jpg",
+    "id": "467",
+    "name": "นายอนุทิน ชาญวีรกูล",
+    "party": "พรรคภูมิใจไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34171",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8bb02922848f2de15e6c4af25cca53a7.png",
+    "id": "468",
+    "name": "นายอนุรักษ์ จุรีมาศ",
+    "party": "พรรคชาติไทยพัฒนา",
+    "province": "จังหวัดร้อยเอ็ด",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34128",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/9c7482d818eacaae3145e505422bd14c.png",
+    "id": "469",
+    "name": "นายอนุรัตน์ ตันบรรจง",
+    "party": "พรรคกล้าธรรม",
+    "province": "จังหวัดพะเยา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34077",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/63aef2eb042fc8b35de8611ff38b3c5b.png",
+    "id": "470",
+    "name": "นายอนุสรณ์ แก้ววิเชียร",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดนนทบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34396",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3499900137206_3.jpg",
+    "id": "471",
+    "name": "นายอนุสรณ์ เอี่ยมสะอาด",
+    "party": "พรรคเพื่อไทย",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34052",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new/3300700001486_4.jpg",
+    "id": "472",
+    "name": "นายอภิชา เลิศพชรกมล",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดนครราชสีมา",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34316",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/61ac34e729963f35018ca7418ad6be4b.png",
+    "id": "473",
+    "name": "จ่าอากาศเอก อภิชาติ แก้วโกศล",
+    "party": "พรรครวมไทยสร้างชาติ",
+    "province": "จังหวัดเพชรบุรี",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34199",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8d13a891eb4ed85104b369a3a2831dea.png",
+    "id": "474",
+    "name": "นายอภิชาติ ตีรสวัสดิชัย",
+    "party": "พรรคเพื่อไทย",
+    "province": "จังหวัดสกลนคร",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34336",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/8d1a06f7910a1e748edd3c5c8101b232.png",
+    "id": "476",
+    "name": "นายอภิสิทธิ์ ไล่สัตรูไกล",
+    "party": "พรรคประชาชน",
+    "province": null,
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  },
+  {
+    "profileUrl": "https://www.parliament.go.th/view/1/mpconnect/TH-TH?dt=34309",
+    "img": "https://hris.parliament.go.th/manage/fileupload/pic_new_public/2fd48adb3b28008aae99f6fb52c94035.png",
+    "id": "478",
+    "name": "ว่าที่ร้อยตรีหญิง อรพรรณ จันตาเรือง",
+    "party": "พรรคประชาชน",
+    "province": "จังหวัดเชียงใหม่",
+    "type": "สภาผู้แทนราษฏรชุดที่ 26 พ.ศ.2566"
+  }
+]
